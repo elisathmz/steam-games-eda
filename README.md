@@ -8,8 +8,8 @@ A Python-based Exploratory Data Analysis (EDA) project focusing on a dataset of 
 - Matplotlib & Seaborn (Statistical data visualization)
 
 ## Project Structure
-- `analise.ipynb`: Notebook containing the data cleaning and transformation logic.
-- `graficos.ipynb`: Notebook containing the exploratory data analysis and charts.
+- `data_cleaning.ipynb`: Notebook containing the data cleaning and transformation logic.
+- `visualizations.ipynb`: Notebook containing the exploratory data analysis and charts.
 - `requirements.txt`: Project dependencies.
 
 ## How to Run
