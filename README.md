@@ -16,5 +16,5 @@ A Python-based Exploratory Data Analysis (EDA) project focusing on a dataset of 
 1. Clone this repository to your local machine.
 2. Ensure you have Python installed.
 3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
